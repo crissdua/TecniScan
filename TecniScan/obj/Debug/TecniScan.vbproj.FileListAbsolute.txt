@@ -1,0 +1,14 @@
+C:\Users\Cristhiam\Documents\Visual Studio 2015\Projects\TecniScan\TecniScan\bin\Debug\TecniScan.exe.config
+C:\Users\Cristhiam\Documents\Visual Studio 2015\Projects\TecniScan\TecniScan\bin\Debug\TecniScan.exe
+C:\Users\Cristhiam\Documents\Visual Studio 2015\Projects\TecniScan\TecniScan\bin\Debug\TecniScan.pdb
+C:\Users\Cristhiam\Documents\Visual Studio 2015\Projects\TecniScan\TecniScan\bin\Debug\TecniScan.xml
+C:\Users\Cristhiam\Documents\Visual Studio 2015\Projects\TecniScan\TecniScan\obj\Debug\TecniScan.vbprojResolveAssemblyReference.cache
+C:\Users\Cristhiam\Documents\Visual Studio 2015\Projects\TecniScan\TecniScan\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\Cristhiam\Documents\Visual Studio 2015\Projects\TecniScan\TecniScan\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\Cristhiam\Documents\Visual Studio 2015\Projects\TecniScan\TecniScan\obj\Debug\TecniScan.vbproj.ResolveComReference.cache
+C:\Users\Cristhiam\Documents\Visual Studio 2015\Projects\TecniScan\TecniScan\obj\Debug\TecniScan.Form1.resources
+C:\Users\Cristhiam\Documents\Visual Studio 2015\Projects\TecniScan\TecniScan\obj\Debug\TecniScan.Resources.resources
+C:\Users\Cristhiam\Documents\Visual Studio 2015\Projects\TecniScan\TecniScan\obj\Debug\TecniScan.vbproj.GenerateResource.Cache
+C:\Users\Cristhiam\Documents\Visual Studio 2015\Projects\TecniScan\TecniScan\obj\Debug\TecniScan.exe
+C:\Users\Cristhiam\Documents\Visual Studio 2015\Projects\TecniScan\TecniScan\obj\Debug\TecniScan.xml
+C:\Users\Cristhiam\Documents\Visual Studio 2015\Projects\TecniScan\TecniScan\obj\Debug\TecniScan.pdb
